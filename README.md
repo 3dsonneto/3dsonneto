@@ -1,4 +1,4 @@
-### Olá, sou Edson 👋
+### ☕ Olá, sou Edson 👋
 #### Sou estudante de Ciência da Computação em Salvador mas também estudo desenvolvimento mobile nas horas vagas. Atualmente estou aprendendo Flutter e Swift
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3dsonneto&theme=nightowl&show_icons=true)
