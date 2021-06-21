@@ -1,5 +1,5 @@
 ### ☕ Olá, sou Edson 👋
-#### Sou estudante de Ciência da Computação em Salvador mas também estudo desenvolvimento mobile nas horas vagas. Atualmente trabalho como Analista de sistemas JR. no time de mobile iOS.
+#### Sou estudante de Ciência da Computação em Salvador mas também estudo desenvolvimento mobile nas horas vagas. Atualmente trabalho como Analista de sistemas JR no time de mobile iOS.
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=3dsonneto&theme=nightowl&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dsonneto&layout=compact&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
