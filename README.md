@@ -2,11 +2,10 @@
 #### Sou estudante de Ciência da Computação em Salvador mas também estudo desenvolvimento mobile nas horas vagas. Atualmente trabalho como Analista de sistemas JR no time de mobile iOS.
 ---
  <div>
-  <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3dsonneto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3dsonneto&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
----
+ 
 ### 🧰 Linguagens e Ferramentas:
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="Swift" height="40" style="vertical-align:top; margin:4px">
