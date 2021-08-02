@@ -1,5 +1,5 @@
 ### ☕ Olá, sou Edson 👋
-#### Sou estudante de Ciência da Computação em Salvador mas também estudo desenvolvimento mobile nas horas vagas. Atualmente trabalho como Analista de sistemas JR no time de mobile iOS.
+#### Sou estudante de Ciência da Computação em Salvador mas também estudo desenvolvimento mobile nas horas vagas. Atualmente trabalho como Analista de sistemas JR no time de mobile iOS do Social Bank.
 ---
  <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3dsonneto&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
